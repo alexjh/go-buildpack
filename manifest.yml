@@ -51,13 +51,13 @@ dependencies:
   - cflinuxfs2
 - name: godep
   version: v79
-  uri: https:///dependencies/godep/godep-v79-linux-x64-4969331a.tgz
+  uri: http://10.9.168.108:9000/pivotal-buildpacks/dependencies/godep/godep-v79-linux-x64-4969331a.tgz
   md5: 4969331aa824f27673b8ec4b4161ac95
   cf_stacks:
   - cflinuxfs2
 - name: glide
   version: v0.12.3
-  uri: https:///dependencies/glide/glide-v0.12.3-linux-x64-29ab3eed.tgz
+  uri: http://10.9.168.108:9000/pivotal-buildpacks/dependencies/glide/glide-v0.12.3-linux-x64-29ab3eed.tgz
   md5: 29ab3eed7888b53e2bb346867f127f9b
   cf_stacks:
   - cflinuxfs2
